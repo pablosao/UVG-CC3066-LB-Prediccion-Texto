@@ -1,0 +1,1 @@
+{"etiqueta": ["Corpus", "Palabras", "Sin Palabras de Conexi\u00f3n", "Sin N\u00fameros", "Escritas Correctamente", "Sin \"Frases\" de Una Letra"], "valores": [164456400, 31003701, 17096013, 16645969, 14466665, 14259819]}
