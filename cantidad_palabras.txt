@@ -1,1 +1,3 @@
-{"etiqueta": ["Corpus", "Palabras", "Sin Palabras de Conexi\u00f3n", "Sin N\u00fameros", "Escritas Correctamente", "Sin \"Frases\" de Una Letra"], "valores": [164456400, 31003701, 17096013, 16645969, 14466665, 14259819]}
+version https://git-lfs.github.com/spec/v1
+oid sha256:45a076295c5ec18119ba9a3a2510dc8784bc36deae3163c8d9e5d807413f9364
+size 220
